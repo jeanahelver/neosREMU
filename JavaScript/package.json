@@ -1,0 +1,24 @@
+{
+  "name": "neosremu",
+  "version": "1.0.0",
+  "description": "Neos Remote Emulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanahelver/neosREMU.git"
+  },
+  "keywords": [
+    "Neos",
+    "Remote",
+    "Emulator"
+  ],
+  "author": "jeanahelver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanahelver/neosREMU/issues"
+  },
+  "homepage": "https://github.com/jeanahelver/neosREMU#readme"
+}
